@@ -1,4 +1,14 @@
+@font-face {
+    font-family: mulish;
+    src: url(./fonts/Mulish-VariableFont_wght.woff);
+}
 body {
     font-size: 100px;
     color: red;
+    font-family: mulish;
+}
+div {
+    background: url('./images/logo.jpg');
+    width: 355px;
+    height: 52px;
 }
